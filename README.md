@@ -208,4 +208,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## 👤 Author
 
-[Your Name/Organization Here]
+[Aadiy Khan / student @VIT Bhopal University]
+[Ghaziah Shoeb / student @VIT Bhopal University]
